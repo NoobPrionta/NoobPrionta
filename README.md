@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prionta-saha-a4b991353/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prionta-saha-a4b991353/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/prionta.500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prionta.500" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prionta-saha-a4b991353/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prionta-saha-a4b991353/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/prionta.500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prionta.500" height="30" width="40" /></a>
 <a href="https://instagram.com/prionta369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prionta369" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://studio.youtube.com/channel/uc1pwth8da3nut0exmm72ung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://studio.youtube.com/channel/uc1pwth8da3nut0exmm72ung" height="30" width="40" /></a>
-<a href="https://discord.gg/priontasaha500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="priontasaha500" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@eeebyprionta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://studio.youtube.com/channel/uc1pwth8da3nut0exmm72ung" height="30" width="40" /></a>
+<a href="https://discord.com/users/870297104319414323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="priontasaha500" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
