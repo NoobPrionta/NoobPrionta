@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prionta Saha Dip</h1>
+<img width="1584" height="396" alt="Cyan Blue and Black Modern Professional Programmer LinkedIn Background" src="https://github.com/user-attachments/assets/0078c027-3097-46a5-b57d-fe35e0ec0fc9" />
 <h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobprionta&label=Profile%20views&color=0e75b6&style=flat" alt="noobprionta" /> </p>
@@ -15,7 +16,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me:</h3><img width="1584" height="396" alt="Cyan Blue and Black Modern Professional Programmer LinkedIn Background" src="https://github.com/user-attachments/assets/0078c027-3097-46a5-b57d-fe35e0ec0fc9" />
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/prionta-saha-a4b991353/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prionta-saha-a4b991353/" height="30" width="40" /></a>
